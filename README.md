@@ -1,5 +1,5 @@
 # Helloworld
-Helloworld -  or Wassup Word
+Helloworld -  or Wassup World
 
 Join me on my 1 day 1 project journey for 100 days. 
 
