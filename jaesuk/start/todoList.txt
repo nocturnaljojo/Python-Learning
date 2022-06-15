@@ -1,0 +1,10 @@
+This is Jaesuk's workspace, I may not be available during weekdays but will push hard during weekends.
+I may not be familiar with Python but am willing to learn as followings:
+
+1. DB connection
+2. collection
+3. Rest API in python (prefer Django for framework)
+4. Redis
+5. Simple infrastructure setup (jenkins,aws)
+
+// note: this is mainly backend work
